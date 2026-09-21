@@ -23,7 +23,7 @@ Outdoor Channel
 Thrillers
 American Idol
 Animal Planet
-Baywatch
+Baywatc
 MovieSphere
 3ABN Kids
 Fanpop TV
