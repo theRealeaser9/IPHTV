@@ -25,7 +25,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v8
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
 #EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
-#ECTINF:-1, Animax
+#EXTINF:-1, Animax
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
 #EXTINF:-1,BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
@@ -35,8 +35,10 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,TV5
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#ECTINF:-1, Kapamilya Channel
+#EXTINF:-1, Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+#EXTINF:-1,PTV 4 (720p HD)
+https://amagi.tv
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Arirang
