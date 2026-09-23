@@ -76,4 +76,56 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35640.m3u8
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="CLTV36.ph@SD",CLTV 36 (720p) [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines (1080p)
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+
+#EXTINF:-1 tvg-id="INCRadio.ph@SD",INC Radio (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-id="INCTV.ph@SD",INC TV (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-id="KoolTV.ph@SD",Kool TV (720p)
+https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD",Premier Sports 2 (Philippines) (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports.ph@SD",Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTMASEAN.my@SD",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph@SD",SMNI (720p)
+https://stream.kdlc.click/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518
+
+#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV (1080p)
+https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
+
