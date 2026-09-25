@@ -53,9 +53,9 @@ Vegas Life TV
 FilAm TV Network
 ```
 
-LINK TO IPTV M3U:
+NEW LINK TO IPTV M3U:
 ```
-https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
+https://pastebin.com/raw/Z3mS4bZ6
 ```
 ``
     - Credits to all the sources of the working m3u links 
