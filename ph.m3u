@@ -34,7 +34,7 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,TV5 (1080p HD)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
 #EXTINF:-1, Kapamilya Channel
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
 #EXTINF:-1, PTV 4 (720p HD)
@@ -80,9 +80,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD",Bilyonaryo News Channel
-https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
-
 #EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 
@@ -98,8 +95,6 @@ https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:-1 tvg-id="INCRadio.ph@SD",INC Radio (1080p)
 https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
 
-#EXTINF:-1 tvg-id="INCTV.ph@SD",INC TV (1080p)
-https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
 
 #EXTINF:-1 tvg-id="KoolTV.ph@SD",Kool TV (720p)
 https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
