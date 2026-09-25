@@ -34,11 +34,11 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,TV5 (1080p HD)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+https://streams.comclark.com/pknsd/tv5/playlist.m3u8
 #EXTINF:-1, Kapamilya Channel
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
+https://streams.comclark.com/pknsd/kapamilyachannel/playlist.m3u8
 #EXTINF:-1, PTV 4 (720p HD)
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/ptv_qp.m3u8
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,Arirang
@@ -119,18 +119,15 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 https://stream.kdlc.click/hls/0/stream.m3u8
 
 #EXTINF:-1 tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
-http://58.8.186.128:10005/bysid/2518
+http://58.8.186.128:10005/bysid/2518#EXTM3U
 
-#EXTINF:-1 tvg-id="VegasLifeTV.us@HD",Vegas Life TV (1080p)
-https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
-
-#EXTINF:-1,TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+#EXTINF:-1,TV5 Monde Asia
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
-#EXTINF:-1,TV5Monde Pacifique (1080p) [Geo-blocked]
+#EXTINF:-1,TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
-#EXTINF:-1,TVE Internacional Asia-Oceania [Geo-blocked]
+#EXTINF:-1,TVE Internacional Asia-Oceania
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 
 #EXTINF:-1,TVE Internacional Europe-Asia [Geo-blocked]
@@ -142,24 +139,23 @@ https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
-
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1,TV5 MONDE Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
 #EXTINF:-1,TV5 MONDE Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
+#EXTINF:-1,Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1,BBC World News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1,Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-
-#EXTINF:-1,Thrillers
-https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+https://p2pstream.xyz
 
 #EXTINF:-1,American Idol
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
@@ -176,9 +172,6 @@ https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
 #EXTINF:-1,Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
-#EXTINF:-1,Japanim TV (1080p)
-https://foxkidstv.be:3369/stream/play.m3u8
-
 #EXTINF:-1,Kuriakos Kids (1080p)
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 
@@ -191,20 +184,8 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 #EXTINF:-1,XilamTV (1080p) (English Subtitle)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,Zarok TV Sorani (720p)
-https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1,Disney XD
-https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1,Disney Jr
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-
-#EXTINF:-1,Disney Channel
-https://fl1.moveonjoy.com/DISNEY/index.m3u8
-
 #EXTINF:-1,Nickelodeon
-https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1,NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
