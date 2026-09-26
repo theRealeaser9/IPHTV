@@ -48,7 +48,7 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
 #EXTINF:-1,Kapamilya Channel
-https://streams.comclark.com/pknsd/kapamilyachannel/playlist.m3u8
+https://202.57.43.60:8443/live/5748aabe4c9d661fbd740682248f664/100.m3u8
 
 #EXTINF:-1,PTV 4 (720p HD)
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/PTVPH.m3u8
@@ -73,6 +73,9 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1,GTV
+https://23phcgma7.vizco.workers.dev/stream/channel/master.m3u8
 
 #EXTINF:-1,Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
@@ -153,20 +156,20 @@ http://58.8.186.128:10005/bysid/2518#EXTM3U
 #EXTINF:-1,TV5 Monde Asia
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
+#EXTINF:-1,TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+
 #EXTINF:-1,TV5Monde Pacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 
 #EXTINF:-1,TVE Internacional Asia-Oceania
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 
-#EXTINF:-1,TVE Internacional Europe-Asia [Geo-blocked]
-https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1,Travel Channel
+https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
 #EXTINF:-1,Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1,Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
 #EXTINF:-1,ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -206,3 +209,4 @@ https://youtube.com/@cartoonsforkids/live
 
 #EXTINF:-1,Rakuten TV Action Movies
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
