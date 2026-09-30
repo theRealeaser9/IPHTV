@@ -1,83 +1,519 @@
 #EXTM3U
 #EXTINF:-1,A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,DepEd TV
-http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,ALLTV
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,Jeepney TV
-http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,FilAm TV Network
 https://streams.comclark.com/pknsd/filamtv/playlist.m3u8
+
+#EXTINF:-1,TV5 (1080p HD)
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,TV Maria
 http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,Tagalized Movie Channel
-http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,Moonbug Kids
-https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1,INCTV (720p) [Geo-blocked]
-http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
+#EXTINF:-1 ,GTV
+http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,DepEd TV
+http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Tagalized Movie Channel
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
-#EXTINF:-1,Mindanow Network TV
-https://streams.comclark.com/overlay/mindanow/playlist.m3u8
+
+#EXTINF:-1,Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+
 #EXTINF:-1,BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+
 #EXTINF:-1,CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
+
+#EXTINF:-1,Bilyonario News Channel (720p)
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+
+#EXTINF:-1,Kapamilya Channel
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
+#EXTINF:-1,PTV 4 (720p HD)
+http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTNIF:-1,IBC 13
+http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTNIF:-1,UNTV
+http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
 #EXTINF:-1,Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1,INCTV (720p) [Geo-blocked]
+http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
 #EXTINF:-1,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
 #EXTINF:-1,CGTN News Live
-http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO 
+http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,CGTN Documentaries
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
 #EXTINF:-1,Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+
 #EXTINF:-1,Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,TFC GUAM
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+
 #EXTINF:-1,3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
 #EXTINF:-1,Blues TV
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
 #EXTINF:-1,Japanim TV (1080p)
 https://foxkidstv.be:3369/stream/play.m3u8
+
 #EXTINF:-1,Magic Kids (486p)
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
 #EXTINF:-1,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
+
 #EXTINF:-1,Yahoo! Finance (1080p)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+
 #EXTINF:-1,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,TV5
-#EXTINF:-1,GTV
-#EXTINF:-1,Kapamilya Channel
-#EXTINF:-1,One PH
-#EXTINF:-1,CineMo!
-#EXTINF:-1,Heart of Asia
-#EXTINF:-1,I Heart Movies
-#EXTINF:-1,Heart of Asia
-#EXTINF:-1,I Heart Movies
-#EXTINF:-1,Kapamilya Channel
-#EXTINF:-1,One PH
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35640.m3u8
+
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD",Abante TV (1080p)
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTN47.ph@SD",CCTN 47 (1080p) [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+
+#EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD",FilAmTV Network (1080p)
+https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD",Hope Channel Philippines (1080p)
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+
+#EXTINF:-1 tvg-id="INCRadio.ph@SD",INC Radio (1080p)
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+
+#EXTINF:-1 tvg-id="KoolTV.ph@SD",Kool TV (720p)
+https://twitch-m3u8.bastypro112.workers.dev/kooltvlive/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD",Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNBWorld.mn@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",MNB World (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/MNB_World/DASH-FTA/MNB_World.mpd
+
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD",Premier Sports 2 (Philippines) (1080p)
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PremierSports.ph@SD",Premier Sports (1080p)
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTMASEAN.my@SD",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph@SD",SMNI (720p)
+https://stream.kdlc.click/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="tvNAsia.hk@HD",tvN Asia HD (720p)
+http://58.8.186.128:10005/bysid/2518#EXTM3U
+
+#EXTINF:-1,Net25
+http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Light TV
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Jeepney TV
+http://136.239.158.10:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,CLTV 36
+http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
 #EXTINF:-1,RPTV
+http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="buko",Buko
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
+
+#EXTINF:-1,Metro Channel
+http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="kapatid_hd",Kapatid Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
+https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
+
+#EXTINF:-1,History Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#EXTINF:-1,Love Nature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+
+#EXTINF:-1,National Geographic Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+
+#EXTINF:-1,BBC Earth
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#EXTINF:-1 tvg-id="travel_channel_sd",Travel Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
+https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
+
+#EXTINF:-1,Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1,TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/270
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml" url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://wasabi-egg.b-cdn.net/ASIA_CONVERGE.xml"
+#PLAYLIST:my-playlist
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1,History Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
+
+#EXTINF:-1,Love Nature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+
+#EXTINF:-1,National Geographic Wild
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=76f4714902e048e481eb4224d1cf0e66:ea1d9b76cf4425d20513f8d660ee69e4
+https://cache07.zapitv.com/live/eds_c2/nat_geo_wild_hd/dash_live_ez/nat_geo_wild_hd.mpd
+
+#EXTINF:-1,BBC Earth
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+
+#EXTINF:-1 tvg-id="travel_channel_sd",Travel Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf
+https://ucdn.mediaquest.com.ph/bpk-tv/travel_channel_sd/default/index.mpd
+
+#EXTINF:-1,BBC Lifestyle
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58b949986ed13294bc01b0f330abc527:23e8c5f2fe202906ac2d6554d9527299
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://s7770.cdn.mytvnet.vn/pkg20/live_dzones/bbclifestyle.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="globaltrekker",Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
+https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
+
+#EXTINF:-1,Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GDs+r6TILmj3TEJE1UkGsA", "kid":"jeEeAF21vQ24IogUhjzTEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
+
+#EXTINF:-1,TLC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
+
+#EXTINF:-1,HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#EXTINF:-1,Animal Planet HD India
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#EXTINF:-1,Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
+#EXTINF:-1,Discovery Asia
+http://136.239.173.10:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001816&contentid=ch00000000000000001816&videoid=ch00000090990000001334&recommendtype=0&userid=1996608135992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0WQVURILRBKFXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Discovery Turbo India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c011525969e44b99a86059dbb3cdf4e8":"6700a5d93203417b8585f7de7dd1a09b"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/index.mpd
+
+#EXTINF:-1,Discovery Science India
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5458f45efedb4d6f8aa6ac76c85b621b":"dbf8a0a306a64525ba3012fd225370c0"}
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/index.mpd
+
+#EXTINF:-1,Asian Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_ott.mpd
+
+#EXTINF:-1,Food Network HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d4b9d55410d24905920e57664a047116":"d821110f280f4545ae0227d5784af199"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/205/205.mpd
+
+#EXTINF:-1,CGTN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nnBhYfAvuZy2ktKWVHBJTg","kid":"/GbvDuNbW6Y53A4TxfipEA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
+
+#EXTINF:-1,CGTN Documentary
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5082ef4a1f53079360ed8283bbe05c10:9a837b648a223d23ff05045972dbb6ae
+#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5119/default_primary.mpd
+
+#EXTINF:-1,PBO
+http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Viva Cinema
+http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,FILIAM TV
+http://136.239.159.18:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Solar Flix
+http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Celestial Classic Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+
+#EXTINF:-1,Celestial Movies Pinoy
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Thrill
+http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Cinemo!
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,Cinema One
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="cg_tapmovies_hd1",TAP Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#EXTINF:-1,Tap Action Flix
+http://136.239.173.26:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpahcUJJEYAxPtEef94INw1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1826997527749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BJ80X0UU6VXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="cg_hbohd",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f3c8215a944e068b176c9d2a5f3048:93c0a798243d6443864d1a7ff3e42c05
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohd/default/index.mpd
+
+#EXTINF:-1,HBO Family
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"07b138f30ad3441ca5a2f476e550af25":"826ee4deef4b45cfafd5f79a591b15c6"}
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
+
+#EXTINF:-1 tvg-id="cg_hbohits",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e8c5a917d424f06b2196a5c9e2d8043:516c47ccef00a12421d9805c8c1c6c1d
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
+
+#EXTINF:-1 tvg-id="cg_hbosign",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74d8f5916c234b80a9179e5d3c7a2046:f8d2753ff54579efc01d3373acf21f96
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
+http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1,tvN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 tvg-id="cg_tvnmovie",TVN Movie TG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
+
+#EXTINF:-1,tvN Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1,HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct"
+
+#EXTINF:-1,89.1 AWR Manila
+http://192.53.113.120:8000/stream?type=.mp3
+
+#EXTINF:-1,89.9 Magic
+https://stream.zeno.fm/sh37pvfd938uv
+
+#EXTINF:-1,90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-1,91.5 Win Radio
+https://stream.zeno.fm/nz4ydgnu6hhvv
+
+#EXTINF:-1,92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
+#EXTINF:-1,93.1 Monster Radio RX
+https://in-icecast.eradioportal.com:8443/monsterrrx
+
+#EXTINF:-1,95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1,96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-1,96.3 WRocK
+https://wrockceb-iradioph.radioca.st/;?1764388585887
+
+#EXTINF:-1,97.9 Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-1,98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-1,101.1 Yes Fm
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-1,100.3 RJ FM
+https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
+
+#EXTINF:-1,102.7 Star FM
+https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-1,103.5 All Radio
+http://103.36.17.18:8000/stream
+
+#EXTINF:-1,104.3 Capital FM2
+http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-1,106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-1,87.5 Republika FM1
+https://stream.zeno.fm/qnt98p5m108uv
+
